@@ -21,6 +21,39 @@
             "repo": "https://github.com/s1mplym4tt/caelestia-plugins.git",
             "subdir": "quick-note",
             "ref": "main"
+        },
+        {
+            "id": "system-monitor",
+            "name": "System Monitor",
+            "version": "1.0.0",
+            "description": "CPU and RAM usage in the taskbar.",
+            "author": "caelestia-plugins",
+            "icon": "monitor_heart",
+            "repo": "https://github.com/s1mplym4tt/caelestia-plugins.git",
+            "subdir": "system-monitor",
+            "ref": "main"
+        },
+        {
+            "id": "greeter-settings",
+            "name": "Greeter & Lock Screen",
+            "version": "1.0.0",
+            "description": "Lock screen and greeter customization in the settings.",
+            "author": "caelestia-plugins",
+            "icon": "lock",
+            "repo": "https://github.com/s1mplym4tt/caelestia-plugins.git",
+            "subdir": "greeter-settings",
+            "ref": "main"
+        },
+        {
+            "id": "pomodoro",
+            "name": "Pomodoro",
+            "version": "1.0.0",
+            "description": "A 25-minute focus timer for the taskbar.",
+            "author": "caelestia-plugins",
+            "icon": "timer",
+            "repo": "https://github.com/s1mplym4tt/caelestia-plugins.git",
+            "subdir": "pomodoro",
+            "ref": "main"
         }
     ]
 }

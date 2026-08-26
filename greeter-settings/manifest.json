@@ -1,0 +1,9 @@
+{
+    "id": "greeter-settings",
+    "name": "Greeter & Lock Screen",
+    "version": "1.0.0",
+    "description": "Lock screen and greeter customization in the settings.",
+    "author": "caelestia-plugins",
+    "icon": "lock",
+    "entry": "main.qml"
+}

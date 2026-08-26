@@ -1,0 +1,9 @@
+{
+    "id": "pomodoro",
+    "name": "Pomodoro",
+    "version": "1.0.0",
+    "description": "A 25-minute focus timer for the taskbar.",
+    "author": "caelestia-plugins",
+    "icon": "timer",
+    "entry": "main.qml"
+}

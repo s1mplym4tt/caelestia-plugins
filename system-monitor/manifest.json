@@ -1,0 +1,9 @@
+{
+    "id": "system-monitor",
+    "name": "System Monitor",
+    "version": "1.0.0",
+    "description": "CPU and RAM usage in the taskbar.",
+    "author": "caelestia-plugins",
+    "icon": "monitor_heart",
+    "entry": "main.qml"
+}
