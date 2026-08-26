@@ -24,8 +24,8 @@ Item {
         id: noteWindow
 
         visible: false
-        width: 380
-        height: 300
+        implicitWidth: 380
+        implicitHeight: 300
         minimumSize.width: 260
         minimumSize.height: 160
         color: Colours.tPalette.m3surfaceContainerHigh
