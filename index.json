@@ -1,0 +1,26 @@
+{
+    "plugins": [
+        {
+            "id": "weather-chip",
+            "name": "Weather Chip",
+            "version": "1.0.0",
+            "description": "A weather widget for the taskbar, powered by the shell's Weather service.",
+            "author": "caelestia-plugins",
+            "icon": "partly_cloudy_day",
+            "repo": "https://github.com/s1mplym4tt/caelestia-plugins.git",
+            "subdir": "weather-chip",
+            "ref": "main"
+        },
+        {
+            "id": "quick-note",
+            "name": "Quick Note",
+            "version": "1.0.0",
+            "description": "A sticky-note widget for the taskbar that opens a small notes window.",
+            "author": "caelestia-plugins",
+            "icon": "sticky_note_2",
+            "repo": "https://github.com/s1mplym4tt/caelestia-plugins.git",
+            "subdir": "quick-note",
+            "ref": "main"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "id": "quick-note",
+    "name": "Quick Note",
+    "version": "1.0.0",
+    "description": "A sticky-note widget for the taskbar that opens a small notes window.",
+    "author": "caelestia-plugins",
+    "icon": "sticky_note_2",
+    "entry": "main.qml"
+}

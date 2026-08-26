@@ -1,0 +1,9 @@
+{
+    "id": "weather-chip",
+    "name": "Weather Chip",
+    "version": "1.0.0",
+    "description": "A weather widget for the taskbar, powered by the shell's Weather service.",
+    "author": "caelestia-plugins",
+    "icon": "partly_cloudy_day",
+    "entry": "main.qml"
+}
